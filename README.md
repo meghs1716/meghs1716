@@ -16,7 +16,7 @@
 
 🌷student in 3rd year
 📊 Interested in machine learning, analytics & visualization  
-🧠 currently learning deep learning & real-world ai  
+🧠 currently learning and doing end-to-end ml projects 
 
 ---
 
